@@ -70,5 +70,7 @@ print(array_abc)
 fig = plotly.express.line(array_abc)
 fig.show()
 
+print('teste')
+
 
 
